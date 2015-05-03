@@ -1,0 +1,23 @@
+{
+  "name": "gulp-aum-register",
+  "version": "0.0.2",
+  "description": "Aum particle register.",
+  "keywords": [
+    "aum",
+    "gulp",
+    "mvc"
+  ],
+  "author": {
+    "name": "Chad Joseph Brown",
+    "url": "http://www.chadjoseph.com"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chadjoseph/gulp-aum-register.git"
+  },
+  "dependencies": {
+    "through2": "~0.6.3"
+  }
+}
+
